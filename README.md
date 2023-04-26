@@ -1,7 +1,7 @@
 ![tankz](https://user-images.githubusercontent.com/131896798/234641773-0362ccd0-76c2-4797-879f-8ca6f320ec8f.png)
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=-CqXz62gSLw
-" target="_blank"><img src="http://img.youtube.com/vi/-CqXz62gSLw/1.jpg" 
-alt="IMAGE ALT TEXT HERE" width="330" height="210" border="10" /></a>
+" target="_blank">Gameplay of the game in youtube </a>
 
 ## [Game instructions]
 Tankz has been designed for the Amstrad CPC 464 and tested with it. By running the game
